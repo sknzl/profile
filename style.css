@@ -61,3 +61,23 @@ li {
     display: inline;
     padding: 0px 20px;
 }
+
+#sidebar {
+  position: fixed;
+  width: 100px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  padding-top: 100px;
+  background-color: #384047;
+  text-align: center;
+}
+
+#sidebar li {
+  display: block;
+  padding: 20px 0px;
+  font-size: 25px;
+}
+#page-content {
+  margin-left: 100px;
+}
