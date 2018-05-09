@@ -1,0 +1,63 @@
+body {
+  background-color: #EBEBEB;
+  color: #7d7d7d;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+h1 {
+  color :#DD5555;
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #ccc;
+}
+
+a:hover {
+  color: #DD5555;
+}
+
+.container {
+  width: 500px;
+  margin: 10px auto;
+  text-align: center;
+  background-color: white;
+  padding: 10px 0px;
+}
+
+#profile-resize{
+    height: auto;
+    width: auto;
+    max-height: 250px;
+}
+
+.stuff-image{
+    height: auto;
+    width: auto;
+    max-width: 400px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    padding: 0px 20px;
+}
